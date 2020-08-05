@@ -10,7 +10,7 @@ const MyComponent = ({ url }) => {
 
   const getCardData = async () => {
     const response = await axios.get(
-      "https://cors-anywhere.herokuapp.com/" + url
+      "https://limitless-brushlands-46281.herokuapp.com/" + url
     );
     if (response.status === 200) {
       const html = response.data;
