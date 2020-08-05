@@ -9,7 +9,9 @@ const MyComponent = ({ url }) => {
   const [title, setTitle] = useState("");
 
   const getCardData = async () => {
-    const response = await axios.get(url);
+    const response = await axios.get(
+      "https://cors-anywhere.herokuapp.com/" + url
+    );
     if (response.status === 200) {
       const html = response.data;
       const $ = cheerio.load(html);
