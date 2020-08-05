@@ -51,8 +51,8 @@ export default {
     ],
     Geographic: [
       "https://www.mapbox.com/",
-      "http://imakewebthings.com/waypoints/",
-      "http://ch-ny.com/content/themes/bridge-child/js/libs/maplace.js/",
+      "https://imakewebthings.com/waypoints/",
+      "https://ch-ny.com/content/themes/bridge-child/js/libs/maplace.js/",
     ],
     Geomerty: [
       "https://brm.io/matter-js/",
@@ -150,7 +150,7 @@ export default {
       "https://reactnative.dev/",
       "https://www.npmjs.com/package/generate-react-component",
       "https://material-ui.com/",
-      "http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/",
+      "https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/",
       "https://reactcommunity.org/react-transition-group/",
       "https://dev.to/loujaybee/using-create-react-app-with-express",
       "https://jaredpalmer.com/formik/",
