@@ -451,16 +451,6 @@ export default {
       "https://www.sqlitetutorial.net/sqlite-cheat-sheet/",
     ],
   },
-  CompSci: {
-    DataStructures: [
-      "https://visualgo.net/en",
-      "https://www.bigocheatsheet.com/",
-    ],
-    Sorting: [
-      "https://www.toptal.com/developers/sorting-algorithms",
-      "https://khan4019.github.io/front-end-Interview-Questions/sort.html",
-    ],
-  },
   Inspiration: {
     Design: [
       "https://www.newdesigngroup.ca/website-design/web-design-process-infographic/",
@@ -504,6 +494,14 @@ export default {
       "https://humanwhocodes.com/blog/2012/10/02/computer-science-and-javascript-merge-sort/",
       "http://nandgame.com/",
       "https://github.com/verekia/js-stack-from-scratch",
+    ],
+    DataStructures: [
+      "https://visualgo.net/en",
+      "https://www.bigocheatsheet.com/",
+    ],
+    Sorting: [
+      "https://www.toptal.com/developers/sorting-algorithms",
+      "https://khan4019.github.io/front-end-Interview-Questions/sort.html",
     ],
   },
   Workspace: {
